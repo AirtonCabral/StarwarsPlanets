@@ -1,0 +1,16 @@
+#App {
+  padding: 15px;
+}
+
+#App .title {
+  margin: 50px;
+  text-align: center;
+}
+
+#App .jumbotron {
+  width: 50%;
+  border-radius: 20px;
+  margin: 30px auto;
+  border: 1px solid #00000014;
+}
+/*# sourceMappingURL=App.css.map */
